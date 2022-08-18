@@ -1,3 +1,4 @@
+![Screenshot 2022-08-18 095127](https://user-images.githubusercontent.com/102045195/185293062-1ea3c352-51c9-4e74-a760-234764265688.png)
 # BASIC--CALCULATOR
 This JavaScript calculator project is a simple project in HTML5, CSS, and JavaScript. Here, the calculator functions as that of a real-life simple calculator. This project is for solving the mathematical calculations of numbers. You can see the basic features of the calculator in this project.
 
